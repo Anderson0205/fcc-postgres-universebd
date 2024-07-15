@@ -104,3 +104,4 @@ git remote add origin https://github.com/Anderson0205/fcc-postgres-universebd.gi
 git remote rm origin
 git remote add origin https://github.com/Anderson0205/fcc-postgres-universebd.git
 git add .
+git commit -m "first commit"
